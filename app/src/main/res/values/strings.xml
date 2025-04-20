@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Compose Figma App</string>
+    <string name="leave_reservation_title">LEAVE YOUR RESERVATION?</string>
+    <string name="leave_info_1">You\'re about to return to the PGA TOUR Superstore.</string>
+    <string name="leave_info_2">Your reservation will not be saved.</string>
+    <string name="button_stay">STAY</string>
+    <string name="button_leave">LEAVE</string>
+    <string name="content_description_close">Close dialog</string>
+</resources>
