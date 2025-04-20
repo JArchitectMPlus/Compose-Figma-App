@@ -10,7 +10,6 @@ This project is a template for native Android applications built using Jetpack C
     *   **Object-Based Style and Theme Resources:** The project demonstrates how to organize your app's styling and theming using object-based components in Kotlin. This approach promotes code clarity, reusability, and maintainability compared to traditional XML-based styles.
     *   **Centralized Color Management:** The project establishes a `Colors.kt` file as the single source of truth for all color definitions. This file uses Compose's `Color` class to define your app's color palette in a type-safe and organized manner.
     *   **Automatic `colors.xml` Generation:** A Gradle task is included that automatically generates the traditional `colors.xml` file (used for View-based UI elements or system resources) from the `Colors.kt` file. This ensures consistency between your Compose theme and any legacy or system-level UI components while avoiding manual color value duplication.
-*   **Ready-to-Use Project Structure:** The template provides a well-organized project structure, making it easy to locate and modify different parts of the app. It includes a basic setup for theming, typography, and layouts, allowing you to quickly start building your UI.
 
 ## Getting Started
 
